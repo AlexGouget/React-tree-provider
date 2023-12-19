@@ -32,4 +32,5 @@ export function ReactTreeProvider(providersWithParams:any[]) {
             return <Provider {...params}>{acc}</Provider>;
         }, children);
     };
+
 }
