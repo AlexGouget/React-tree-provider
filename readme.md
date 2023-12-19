@@ -1,4 +1,4 @@
-# React tree provider
+# React tree provider 🌲
 
 `React Tree Provider` is a lightweight React utility for efficiently managing nested context providers. It simplifies the process of embedding multiple context providers in your component tree, thereby reducing boilerplate and improving code readability.
 
