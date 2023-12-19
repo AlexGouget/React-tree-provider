@@ -2,7 +2,7 @@
   "name": "react-tree-provider",
   "version": "1.0.4",
   "description": "Simple component for working with Nested Providers",
-  "main": "dist/index.js",
+  "main": "dist/index.jsx",
   "scripts": {
     "test": "jest",
     "build": "tsc",
