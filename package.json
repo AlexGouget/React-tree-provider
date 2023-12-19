@@ -1,6 +1,6 @@
 {
   "name": "react-tree-provider",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Simple component for working with Nested Providers",
   "main": "dist/index.js",
   "scripts": {
