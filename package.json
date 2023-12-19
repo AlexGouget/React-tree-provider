@@ -1,6 +1,6 @@
 {
-  "name": "reac-tree-provider",
-  "version": "1.0.0",
+  "name": "react-tree-provider",
+  "version": "1.0.1",
   "description": "Simple component for working with Nested Providers",
   "main": "dist/index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexGouge"
+    "url": "https://github.com/AlexGouget/React-tree-provider"
   },
   "keywords": [
     "react",
