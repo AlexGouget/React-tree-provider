@@ -21,7 +21,7 @@ Here's a basic example of how to use rtp in a React application:
 
 ```jsx
 import React from 'react';
-import { ReactTreeProvider } from 'reactree';
+import {ReactTreeProvider} from "react-tree-provider";
 import { UserProvider, ThemeProvider } from 'your-context-providers';
 
 export default function MyApp({ Component, pageProps }) {
