@@ -6,7 +6,7 @@ name: npm Package
 on:
   push:
     branches:
-      - master
+      - master  # Set to your default branch
 
 jobs:
   build:
@@ -27,6 +27,7 @@ jobs:
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org/
+      - run: npm install
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.npm_token}}
