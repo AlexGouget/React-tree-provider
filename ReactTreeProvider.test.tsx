@@ -1,6 +1,6 @@
 import React from 'react';
 import { render } from '@testing-library/react';
-import {ReactTreeProvider} from "./index";
+import {ReactTreeProvider} from "./src";
 import '@testing-library/jest-dom';
 
 
